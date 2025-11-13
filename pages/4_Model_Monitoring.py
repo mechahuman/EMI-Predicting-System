@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("📈 Model Monitoring")
+st.title("Model Monitoring")
 
 st.write("Upload MLflow metrics or model monitoring data.")
 
