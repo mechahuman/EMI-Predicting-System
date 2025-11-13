@@ -17,11 +17,13 @@ Two MLflow experiments were created and tracked:
 
 - **EMI_Classification**  
   Used for developing and logging the multi-class classification model responsible for determining EMI eligibility.
-  <img src="images/streamlit_ui1.png" width="45%">
+  
+  <img src="images/mlflowclass.png" width="600">
   
 - **EMI_Regression**  
   Used for developing and logging the regression model responsible for predicting the maximum EMI a customer can afford.
-  <img src="images/streamlit_ui1.png" width="45%">
+  
+  <img src="images/mlflowref.png" width="600">
   
 These experiments capture parameters, metrics, preprocessing pipelines, and versioned model artifacts through MLflow's tracking UI.
 
@@ -139,5 +141,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-### Streamlit Interface Screenshot (placeholder)
+## Conclusion
+
+The EMI Predicting System integrates machine learning, financial feature engineering, MLflow experiment tracking, and a fully interactive Streamlit application into a single, deployable solution. By combining classification and regression models, the system provides both EMI eligibility assessment and maximum EMI estimation with consistency and reliability. This project demonstrates the complete lifecycle of an applied machine learning system—from model development and artifact management to cloud deployment—offering a scalable and practical framework for real-world financial decision support.
 
