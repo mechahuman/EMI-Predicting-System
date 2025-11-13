@@ -1,7 +1,7 @@
-# EMI Predicting System – Machine Learning & Streamlit Application
+# ***EMI Predicting System – Machine Learning & Streamlit Application***
 
 ## Overview
-The EMI Predicting System is an end-to-end machine learning application designed to analyze a customer's financial profile and determine:
+The EMI Predicting System [project](https://github.com/mechahuman/EMI-Predicting-System) is an end-to-end machine learning application designed to analyze a customer's financial profile and determine:
 
 1. Whether the customer is eligible for an EMI (Classification)  
 2. The maximum EMI amount the customer can safely afford (Regression)
@@ -105,6 +105,8 @@ The interface manages user inputs, computes engineered features, loads model art
   <img src="images/streamlit_ui7.png" width="45%">
   <img src="images/streamlit_ui8.png" width="45%">
 </p>
+
+*StreamLit Application:* https://emi-predicting-system-7nkersbses63i2qbmbv8g6.streamlit.app/
 
 ---
 
