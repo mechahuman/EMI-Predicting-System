@@ -17,10 +17,12 @@ Two MLflow experiments were created and tracked:
 
 - **EMI_Classification**  
   Used for developing and logging the multi-class classification model responsible for determining EMI eligibility.
-
+  <img src="images/streamlit_ui1.png" width="45%">
+  
 - **EMI_Regression**  
   Used for developing and logging the regression model responsible for predicting the maximum EMI a customer can afford.
-
+  <img src="images/streamlit_ui1.png" width="45%">
+  
 These experiments capture parameters, metrics, preprocessing pipelines, and versioned model artifacts through MLflow's tracking UI.
 
 ### MLflow Artifacts
@@ -82,7 +84,25 @@ Pages include:
 - Maximum EMI Prediction  
 
 The interface manages user inputs, computes engineered features, loads model artifacts, and returns prediction outputs.
+<p align="center">
+  <img src="images/streamlit_ui1.png" width="45%">
+  <img src="images/streamlit_ui2.png" width="45%">
+</p>
 
+<p align="center">
+  <img src="images/streamlit_ui3.png" width="45%">
+  <img src="images/streamlit_ui4.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="images/streamlit_ui5.png" width="45%">
+  <img src="images/streamlit_ui6.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="images/streamlit_ui7.png" width="45%">
+  <img src="images/streamlit_ui8.png" width="45%">
+</p>
 
 ---
 
