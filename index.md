@@ -106,7 +106,7 @@ The interface manages user inputs, computes engineered features, loads model art
   <img src="images/streamlit_ui8.png" width="45%">
 </p>
 
-*StreamLit Application:* https://emi-predicting-system-7nkersbses63i2qbmbv8g6.streamlit.app/
+*StreamLit Application:* [https://emi-predicting-system-7nkersbses63i2qbmbv8g6.streamlit.app/]
 
 ---
 
